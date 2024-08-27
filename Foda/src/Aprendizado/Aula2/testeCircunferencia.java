@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class testeCircunferencia {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
-        circuferencia circo = new circuferencia();
+        circuferencias circo = new circuferencias();
 
         System.out.println("Qual a area? ");
 
