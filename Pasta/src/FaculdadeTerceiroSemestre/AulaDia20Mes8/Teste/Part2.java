@@ -1,7 +1,7 @@
-package ProjetoFaculdade.AulaDia20Mes8.Teste;
+package FaculdadeTerceiroSemestre.AulaDia20Mes8.Teste;
 
 
-import ProjetoFaculdade.AulaDia20Mes8.Dominio.Part1;
+import FaculdadeTerceiroSemestre.AulaDia20Mes8.Dominio.Part1;
 
 public class Part2 {
 

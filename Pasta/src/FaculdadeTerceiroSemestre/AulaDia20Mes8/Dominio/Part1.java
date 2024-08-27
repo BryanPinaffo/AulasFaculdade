@@ -1,4 +1,4 @@
-package ProjetoFaculdade.AulaDia20Mes8.Dominio;
+package FaculdadeTerceiroSemestre.AulaDia20Mes8.Dominio;
 
 //import java.awt.*;
 
