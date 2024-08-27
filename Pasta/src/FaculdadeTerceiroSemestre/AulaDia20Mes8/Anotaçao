@@ -1,0 +1,26 @@
+- setBounds(int x, int y, int width, int height):
+Este método define a posição e o tamanho de cada componente na janela.
+  x: A posição horizontal do componente.
+  y: A posição vertical do componente.
+  width: A largura do componente.
+  height: A altura do componente.
+
+
+  - setLayout(null);
+   Define o layout da janela como null, o que significa que você está utilizando layout absoluto.
+   Com layout absoluto, você tem controle total sobre as posições dos componentes,
+   que são definidas manualmente com setBounds.
+
+
+   -add(Component comp):
+    Adiciona um componente à janela.
+   Neste caso, você adiciona cada um dos componentes que criou anteriormente (rótulos, campos de texto, botões) à janela.
+
+
+   -setDefaultCloseOperation(int operation):
+    Define a operação padrão que ocorre quando o usuário clica no botão de fechar a janela.
+   EXIT_ON_CLOSE faz com que a aplicação seja encerrada quando a janela é fechada.
+
+
+   -setVisible(true);
+    Torna a janela visível. Sem essa chamada, a janela seria criada, mas não apareceria na tela.

@@ -1,8 +1,7 @@
 package Aprendizado.Aula1;
 
-import Aprendizado.Aula1.Pessoa;
 
-public class Teste {
+public class Testes {
 
     public static void main(String[] args) { // é a entrada do java, so tem um por projeto
 

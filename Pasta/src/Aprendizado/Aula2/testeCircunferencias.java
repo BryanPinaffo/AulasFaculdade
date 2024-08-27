@@ -1,6 +1,6 @@
 package Aprendizado.Aula2;
 import java.util.Scanner;
-public class testeCircunferencia {
+public class testeCircunferencias {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
         circuferencias circo = new circuferencias();
@@ -17,7 +17,7 @@ public class testeCircunferencia {
 
         circo.perc = scan.nextDouble();
 
-        circo.VisualizarValores();
+        circo.visualizarValores();
 
 
     }
